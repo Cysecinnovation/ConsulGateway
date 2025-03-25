@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.cysecinnovation.gatewayxmobit.GatewayxmobitApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.94 s -- in com.cysecinnovation.gatewayxmobit.GatewayxmobitApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.13 s -- in com.cysecinnovation.gatewayxmobit.GatewayxmobitApplicationTests
